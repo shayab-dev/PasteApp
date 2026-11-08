@@ -107,12 +107,12 @@ npm run dev
 After starting the development server, open the local URL displayed in your terminal, usually:
 
 ```text
-https://paste-shayab.vercel.app/
+http://localhost:5173/
 ```
 
 ## 🌐 Live Demo
 
-**Live Demo:** Add your deployed Vercel URL here after deployment.
+**Live Demo:** https://paste-shayab.vercel.app/
 
 ## 🎯 Learning Outcomes
 
